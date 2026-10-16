@@ -131,7 +131,7 @@ issue "S4 בדיקה מוצלבת" "shared,week-4" "אח א׳ עובר על כל
 
 **תרחיש מלא:** לקוח מזמין, בעל העסק רואה ביומן, תזכורת יוצאת, לקוח מבטל, השעה מתפנה."
 
-issue "S5 סביבת לקוחות" "shared,week-4" "- פרויקט Supabase חדש בשם prod, \`supabase db push\` אליו (בלי seed)
+issue "S5 סביבת לקוחות" "shared,week-4" "- פרויקט Supabase חדש בשם tori-prod, **באזור Central EU (Frankfurt)**, הכי קרוב ללקוחות בישראל. \`supabase db push\` אליו (בלי seed)
 - משתני סביבה של prod ב־Vercel
 - מספר וואטסאפ אמיתי לפי \`docs/whatsapp.md\` שלב 5
 - גיבוי ידני ראשון של prod"

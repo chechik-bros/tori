@@ -23,7 +23,7 @@
 ## 1. חשבונות (פעם אחת)
 
 - [ ] **GitHub:** אחד יוצר Organization חינמי (github.com/organizations/plan) ומזמין את השני כ־Owner.
-- [ ] **Supabase:** אחד יוצר Organization ב־supabase.com ומזמין את השני. בתוכו יוצרים פרויקט בשם `tori-dev`, באזור `Central EU (Frankfurt)`, הכי קרוב לישראל. את סיסמת המסד שומרים במקום בטוח.
+- [ ] **Supabase:** אחד יוצר Organization ב־supabase.com ומזמין את השני. בתוכו יוצרים פרויקט בשם `tori-dev`. לפיתוח האזור פחות חשוב, אבל את `tori-prod` של הלקוחות (שבוע 4) יוצרים תמיד ב־`Central EU (Frankfurt)`, הכי קרוב לישראל. את סיסמת המסד שומרים במקום בטוח.
 - [ ] **Vercel:** מי שיוצר את Supabase נרשם גם ל־vercel.com עם חשבון ה־GitHub שלו.
 - [ ] **Meta:** אח ב׳, לפי `docs/whatsapp.md`.
 
